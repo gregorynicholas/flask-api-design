@@ -1,0 +1,52 @@
+
+[submodule "twilio-flask-restful"]
+	path = twilio-flask-restful
+	url = https://github.com/twilio/flask-restful.git
+[submodule "flosch-simpleapi"]
+	path = flosch-simpleapi
+	url = https://github.com/flosch/simpleapi.git
+[submodule "jfinkels-flask-restless"]
+	path = jfinkels-flask-restless
+	url = https://github.com/jfinkels/flask-restless.git
+[submodule "hownowstephen-apy"]
+	path = hownowstephen-apy
+	url = https://github.com/hownowstephen/apy.git
+[submodule "dontcare4free-flask-pushrod"]
+	path = dontcare4free-flask-pushrod
+	url = https://github.com/dontcare4free/Flask-Pushrod.git
+[submodule "ib-lundgren-flask-oauthprovider"]
+	path = ib-lundgren-flask-oauthprovider
+	url = https://github.com/ib-lundgren/flask-oauthprovider.git
+[submodule "martinblech-mimerender"]
+	path = martinblech-mimerender
+	url = https://github.com/martinblech/mimerender.git
+[submodule "shazow-apiclient"]
+	path = shazow-apiclient
+	url = https://github.com/shazow/apiclient.git
+[submodule "ahri-flask-snooze"]
+	path = ahri-flask-snooze
+	url = https://github.com/ahri/flask-snooze.git
+[submodule "dstufft-slumber"]
+	path = dstufft-slumber
+	url = https://github.com/dstufft/slumber.git
+[submodule "namlook-apibee"]
+	path = namlook-apibee
+	url = https://github.com/namlook/apibee.git
+[submodule "scotch-aerest"]
+	path = scotch-aerest
+	url = https://github.com/scotch/aerest.git
+[submodule "jacobb-nap"]
+	path = jacobb-nap
+	url = https://github.com/jacobb/nap.git
+[submodule "mattupstate-flask-negotiate"]
+	path = mattupstate-flask-negotiate
+	url = https://github.com/mattupstate/flask-negotiate.git
+[submodule "garybernhardt-prest"]
+	path = garybernhardt-prest
+	url = https://github.com/garybernhardt/prest.git
+[submodule "becomingguru-python-restconsumer"]
+	path = becomingguru-python-restconsumer
+	url = https://github.com/becomingGuru/python-restconsumer.git
+[submodule "hiidef-hiitrack-api"]
+	path = hiidef-hiitrack-api
+	url = https://github.com/hiidef/hiitrack-api.git
